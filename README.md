@@ -1,6 +1,6 @@
 This is an example of using Spark MLlib's Naive Bayes model in R which I used as a demo at Singapore's Spark user group's first meetup http://www.meetup.com/Spark-Singapore/events/218794905/
 
-Slides: https://www.slideshare.net/secret/m5cB2jsLGOpeRa
+Slides: http://www.slideshare.net/KienDang5/introduction-to-sparkr
 
 Data source: https://archive.ics.uci.edu/ml/datasets/Spambase
 
